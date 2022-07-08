@@ -1,3 +1,5 @@
+// 미니과제01_백엔드 스쿨_지수현
+
 public class MiniStudy01 {
     public static void main(String[] args){
         System.out.println("[구구단 출력]");
